@@ -1,0 +1,6 @@
+{
+  "name": "CODEVERSE",
+  "description": "CODEVERSE — Learn. Code. Create. A World of Programming. A full-stack programming education platform designed for Uzbek students from beginner to advanced level, powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
